@@ -7,5 +7,4 @@ venv/
 .vscode/
 
 # Runtime-generated
-assets/
 high_score.txt
